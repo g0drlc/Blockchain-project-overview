@@ -1,6 +1,21 @@
-# <i>Blockchain Projects on EVM(Ethereum, Binance, Avalanche, Polygon, Aurora) and Solana.</i>
+# <i>Blockchain Projects on Bitcoin, EVM(Ethereum, Binance, Avalanche, Polygon, Aurora) and Solana.</i>
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
+
+
+<h3><u><strong><i>UnderWorld Lending</i></strong></u> &nbsp;(Bitcoin)</h3>
+<hr />
+
+This is a Ordinal Lending project on Bitcoin network. Users can borrow money use their Bitcoin Ordinals or swap their Ordinals to BTC.
+
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/335f566b-a90d-4997-b2fa-bd318b484830">
+
+UnderWorldLending Platform is an BTC Lending Platform so users can borrow BTC use their BTC Ordinals or Swap Ordinals with BTC. The main purpose of this platform is to facilitate liquidity for borrowers who urgently need it or require it at a specific time. Additionally, we aim to help lenders earn money through this process. Everything is 100% secure, and it will be done through the BTC blockchain. Everything will be transparent. Borrowers won't have to send your ordinal anywhere during borrow money period. With the help of Deep Lake, DLCs (Discreet Log Contracts) and PSBT (Partially Signed Bitcoin Transactions) for Ordinals.
+
+- Live: <a href="https://degens.fi/">UnderWorldLending</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/victoryfox19931116/BTC-NFT-Lending-BE">UnderWorldLending-Backend</a>
+  - frontend repo: <a href="https://github.com/victoryfox19931116/BTC-NFT-Lending">UnderWorldLending-Frontend</a>
 
 
 <h3><u><strong><i>DigiMonkz</i></strong></u> &nbsp;(Etheruem)</h3>
