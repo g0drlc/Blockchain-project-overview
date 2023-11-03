@@ -2,7 +2,7 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
-<h3><u><strong><i>UnderWorld Lending</i></strong></u> &nbsp;(Ethereum)</h3>
+<h3><u><strong><i>Yieldz Lending</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
 This is a Defi Lending project on Etheruem network. Users can provide a sustainable system and bringing predictabe and long-term yield mechanisms for Defi investors.
