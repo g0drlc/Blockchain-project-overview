@@ -17,6 +17,23 @@ We concentrate on investors who want to invest their assets safely and who are s
   - backend repo: <a href="https://github.com/victoryfox19931116/360-Defi-SmartContract">Yieldz-Backend</a>
   - frontend repo: <a href="https://github.com/victoryfox19931116/Yieldz-Defi-Frontend">Yieldz-Frontend</a>
 
+
+<h3><u><strong><i>Hydra Swap</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
+
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/78a3d3a7-da63-4cd5-a011-de5c40ffe54c">
+
+HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
+
+- Live: <a href="https://hydraswap.io/">HydraSwap</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-BE">Hydra-Backend</a>
+  - frontend repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-FE">Hydra-Frontend</a>
+  - SmartContract repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-SC">Hydra-SmartContract</a>
+  
+
 <h3><u><strong><i>UnderWorld Lending</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 
