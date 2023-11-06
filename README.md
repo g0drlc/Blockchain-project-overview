@@ -51,6 +51,21 @@ HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Ma
   - SmartContract repo: <a href="https://github.com/victoryfox19931116/hydra-Defi-SC">Hydra-SmartContract</a>
   
 
+<h3><u><strong><i>DigiMonkz</i></strong></u> &nbsp;(Etheruem)</h3>
+<hr />
+
+This is a NFT project on Etheruem blockchain. Users can mint GEN111 or GEN2 NFTs and can get artifact as a reward from Staking.
+
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/7bfef799-1101-47a0-b747-bcb910683e92">
+
+DigiMonkz is the leading Web3 Wellness NFT collection that is building alongside other passionate and accomplished entrepreneurs as we enter a Digital Age of unprecedented mental health problems. DigiMonkz fill a HUGE NEED as it provides premium content and instruction to LEVEL UP your mind, body, and spirit. We are designed for the NEXT GENERATION of Digital Entrepreneurs and Web3 Fans. The Life of a Degen Journey, as Bebe calls the DigiMonkz Mastermind, is designed to bring more balance and power to the lives of Web3 Degens.
+
+- Live: <a href="https://digimonkz.com/">Digimonkz</a>
+- Github repos: 
+  - smart contract repo: <a href="https://github.com/victoryfox19931116/DigiMonkz-Staking">Digimonkz-SmartContract</a>
+  - frontend repo: <a href="https://github.com/victoryfox19931116/DigiMokz-Frontend">Digimonkz-Frontend</a>
+  
+
 <h3><u><strong><i>UnderWorld Lending</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 
