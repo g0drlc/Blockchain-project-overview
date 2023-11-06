@@ -18,6 +18,23 @@ We concentrate on investors who want to invest their assets safely and who are s
   - frontend repo: <a href="https://github.com/victoryfox19931116/Yieldz-Defi-Frontend">Yieldz-Frontend</a>
 
 
+<h3><u><strong><i>Playzelo</i></strong></u> &nbsp;(Bitcoin, Etheruem, Binance, Solana)</h3>
+<hr />
+
+This is a game project deployed on blockchain networks. Users can play games use crypto
+
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
+
+
+Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
+
+- Live: <a href="http://162.255.116.172:5000/app/home">Playzelo</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/backend">Playzelo Backend</a>
+  - frontend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/frontend">Playzelo-Frontend</a>
+  - admin repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/admin">Playzelo-Admin</a>
+
+
 <h3><u><strong><i>Hydra Swap</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
