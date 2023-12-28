@@ -2,7 +2,20 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
+<h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitcoin)</h3>
+<hr />
+
+This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/453817f2-3920-4626-9c53-1041e67f15b5">
+
+BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Completed BRC20 operations(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
+- Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/victoryfox19931116/BRC20-withdraw-Backend">BRC20-Backend</a>
+  - frontend repo: <a href="https://github.com/victoryfox19931116/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
+
 <h3><u><strong><i>Yieldz Lending</i></strong></u> &nbsp;(Polygon)</h3>
+
 <hr />
 
 This is a Defi Lending project on Etheruem network. Users can provide a sustainable system and bringing predictabe and long-term yield mechanisms for Defi investors.
