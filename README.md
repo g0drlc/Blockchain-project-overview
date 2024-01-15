@@ -41,7 +41,7 @@ This is a game project deployed on blockchain networks. Users can play games use
 
 Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
 
-- Live: <a href="http://162.255.116.172:5000/app/home">Playzelo</a>
+- Live: <a href="https://playzelo.xyz/">Playzelo</a>
 - Github repos: 
   - backend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/backend">Playzelo Backend</a>
   - frontend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/frontend">Playzelo-Frontend</a>
