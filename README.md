@@ -4,11 +4,9 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 
 <h3><u><strong><i>Ordinal Swap</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-
-This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
+Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/d4941f09-ee40-4e29-85cf-e8978a6a2705">
 
-Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.
 - Live: <a href="https://munchswap.xyz/">MunchSwap</a>
 - Github repos: 
   - backend repo: <a href="https://github.com/muncheruniverse/swap-apis">MunchSwap-Backend</a>
