@@ -147,28 +147,6 @@ A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheru
   - frontend repo: <a href="https://github.com/victoryfox19931116/RaffleProject">MetaSweep Front End</a>
 
 
-
-<h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
-<hr />
-
-This is mint website on avalanche network. I used Solidity(ERC 721) to write smart contract and Node/Express, MongoDB to make leaderboard page, and Next.js in front-end side. Mint supply is 500 NFTs.
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/209906661-40d7a303-d0ae-4bf8-a3ca-b159927d72ab.png">
-
-- Demo: <a href="https://avalanche-nft-mint.vercel.app">Plunder The Void</a>
-- Live: <a href="https://plunderthevoid.io">Plunder The Void</a>
-  - Functionality
-    - 500 NFTs
-    - Mint price is 100 USDC
-    - Need to put discord Name or Id
-    - Avalanche network
-- Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
-- Mainnet deployed contract address: <a href="">Mainnet contract</a>
-- Github repo:
-  - Contract: <a href="https://github.com/victoryfox19931116/dale-mint-contract-avax">dale-mint-contract-avax</a>
-  - Backend: <a href="https://github.com/victoryfox19931116/dale-mint-backend-avax">dale-mint-backend-avax</a>
-  - Frontend: <a href="https://github.com/victoryfox19931116/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
-
 <h3><u><strong><i>CashCow Protocol</i></strong></u> &nbsp;(Binance)</h3>
 <hr />
 
