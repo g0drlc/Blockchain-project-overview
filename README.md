@@ -1,10 +1,11 @@
 # <i>Blockchain Projects on Bitcoin, EVM(Ethereum, Binance, Avalanche, Polygon, Aurora) and Solana.</i>
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
+(※ Nowadays I focus on Rune protocol and learned. Already know how to Mint & transfer Rune tokens. Please send email if you are interested)
 
 <h3><u><strong><i>Bitcoin Defi</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Crypto Finance API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet.
+ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Corridor Finance API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet.
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/bb277617-0124-47cf-84ad-33ba16caa2f8">
 
 - Live: <a href="https://arcusbtc.com/">ArcusLab</a>
