@@ -4,7 +4,7 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 
 <h3><u><strong><i>Rune Developer</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-Mint Rune tokens for Ayeliens Collection. Name is "Pelosi•Telegram•Traders". Used Bitcoin Node, Ord Wallet for etch, mint, transfer Rune tokens.
+Mint Rune tokens for Ayeliens Collection. Name is "Pelosi•Telegram•Traders". Used Bitcoin Node, Ord Wallet for etch, mint, transfer Rune tokens. Make script for airdrop rune tokens to multi users in one tx
   
 <h3><u><strong><i>Bitcoin Defi</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
